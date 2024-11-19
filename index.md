@@ -5,7 +5,7 @@
 ---
 
 [Particles](sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/part_running.gif?raw=true"/>
 
 ---
 [Transmutation](/pdf/sample_presentation.pdf)
