@@ -5,6 +5,7 @@
 ---
 
 [Particles](sample_page.md)
+
 <img src="images/part_running.gif?raw=true"/>
 
 ---
