@@ -6,8 +6,7 @@ Particles is an interactive Virtual Reality experience where the guest is able t
 
 This project was displayed in the 2024 pop-up exhibition at Bird Block Gallery and Ceramics Studio “Bird Bonk”. It was made to be a simple interaction so that all ages and experience levels would be able to put on the headset and understand what to do.
 
-
-### 1. Suggest hypotheses about the causes of observed phenomena
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
