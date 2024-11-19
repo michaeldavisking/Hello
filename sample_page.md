@@ -21,5 +21,6 @@ Particles was displayed in a small back room of Bird Block Gallery and Ceramics 
  <img src="images/part_space.jpg" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
 
  **Insparation**
+ 
 This work was born out of my experimentation with Boids in both Unity and Unreal Engine 5. Boids, developed by Craig Renolds in 1987, are small objects that use a small set of rules to create flock-like behaviors. For me they were an introduction to emergent behaviors in games.
 
