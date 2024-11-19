@@ -19,7 +19,7 @@ Particles use a Niagara Particle that is bound to a spline path by several simul
 
 Guests are able to push the particles out of the way using their hands which have point forces that are updated to the hand locations every frame.
 
-[pic]
+ <img src="images/part1.png" alt="A screenshot of Particles in Unreal Engine" width="100" height="100">
 
 This work was born out of my experimentation with Boids in both Unity and Unreal Engine 5. Boids, developed by Craig Renolds in 1987, are small objects that use a small set of rules to create flock-like behaviors. For me they were an introduction to emergent behaviors in games.
 
