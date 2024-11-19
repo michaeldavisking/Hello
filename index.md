@@ -4,8 +4,6 @@
 
 ---
 
-### Category Name 1 
-
 [Particles](sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
