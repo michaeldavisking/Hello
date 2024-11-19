@@ -1,35 +1,23 @@
 ## Particles
 
 **Project description:** 
-
 Particles is an interactive Virtual Reality experience where the guest is able to push around small orbs using their hands.
 
 This project was displayed in the 2024 pop-up exhibition at Bird Block Gallery and Ceramics Studio “Bird Bonk”. It was made to be a simple interaction so that all ages and experience levels would be able to put on the headset and understand what to do.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[pic]
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Particles use a Niagara Particle that is bound to a spline path by several simulated physics forces. All the forces are adjustable and can affect the form the particle stream takes as each of the 15000 particles make their way around the spline.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/part1.jpg?raw=true"/>
 
-### 2. Assess assumptions on which statistical inference will be based
+<img src="images/part_space.jpg?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Guests are able to push the particles out of the way using their hands which have point forces that are updated to the hand locations every frame.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+[pic]
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This work was born out of my experimentation with Boids in both Unity and Unreal Engine 5. Boids, developed by Craig Renolds in 1987, are small objects that use a small set of rules to create flock-like behaviors. For me they were an introduction to emergent behaviors in games.
 
-### 4. Provide a basis for further data collection through surveys or experiments
+[pic]
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
