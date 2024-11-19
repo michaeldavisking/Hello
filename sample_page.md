@@ -8,7 +8,11 @@ This project was displayed in the 2024 pop-up exhibition at Bird Block Gallery a
 
 <img src="images/part1.jpg?raw=true"/>
 
+Particles in development
+
 <img src="images/part_space.jpg?raw=true"/>
+
+The Space of Brid Block that Particles was displayed in
 
 
 Particles use a Niagara Particle that is bound to a spline path by several simulated physics forces. All the forces are adjustable and can affect the form the particle stream takes as each of the 15000 particles make their way around the spline.
