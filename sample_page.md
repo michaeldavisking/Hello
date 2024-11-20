@@ -16,8 +16,9 @@ Particles uses a Niagara Particle that is bound to a spline path by several simu
 <img src="images/partdoc1.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
 
 
-Guests are able to push the particles out of the way using their hands which have point forces that are updated to the hand locations every frame.
+Guests are able to push the particles out of the way using their hands which have point forces that are updated to the hand locations every frame. This was accomplished by creating an unreal vector paramater for each hand. The paramaters are then updated in the VR pawn using the Blueprint below. Lastly the Niagara Particle effect has two point forces who's origins are the positions of the paramaters. This creates a seemless push effect around the hands.
 
+<img src="images/partdoc2.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
 **Display**
 
 Particles was displayed in a small back room of Bird Block Gallery and Ceramics Studio in Blacksburg Virginia. It was viewed by more than 30 individuals during the exhibition who put on a Quest 3 Vr headset. This headset was connected to a computer which had a build of Particles purpertually running. The cable was able to keep the headset charged during the 4 hour exhibition and did not have any connection interuption.
@@ -29,4 +30,10 @@ Particles was displayed in a small back room of Bird Block Gallery and Ceramics 
 This work was born out of my experimentation with Boids in both Unity and Unreal Engine 5. Boids, developed by Craig Renolds in 1987, are small objects that use a small set of rules to create flock-like behaviors. For me they were an introduction to emergent behaviors in games.
 
 <img src="images/Boids.gif" alt="Boids in the Unity Game Engine" width="720" height="500">
+
+ **Learned**
+
+Through this work I leanred how to set up Unreal Engine 5 particles and create simple interactions with them in the gamespace. This has laid a foundation that allows me to create additional particles in games, animations, or VR expereinces that are able to be influenced by objects in the scene.
+
+When displaying the peice I found that I had to help some people understand how the headset and controllers work. This created room for changes in Particles where I would use handtracking instead of controllers so that guests only need to put the headset on to engage with the peice.
 
