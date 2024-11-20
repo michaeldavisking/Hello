@@ -19,6 +19,7 @@ Particles uses a Niagara Particle that is bound to a spline path by several simu
 Guests are able to push the particles out of the way using their hands which have point forces that are updated to the hand locations every frame. This was accomplished by creating an unreal vector parameter for each hand. The parameters are then updated in the VR pawn using the Blueprint below. Lastly the Niagara Particle effect has two point forces whose origins are the positions of the parameters. This creates a seamless push effect around the hands.
 
 <img src="images/partdoc2.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
+
 **Display**
 
 Particles was displayed in a small back room of Bird Block Gallery and Ceramics Studio in Blacksburg Virginia. It was viewed by more than 30 individuals during the exhibition who put on a Quest 3 Vr headset. This headset was connected to a computer which had a build of Particles perpetually running. The cable was able to keep the headset charged during the 4 hour exhibition and did not have any connection interuption.
