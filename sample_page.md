@@ -13,6 +13,9 @@ This project was displayed in the 2024 pop-up exhibition at Bird Block Gallery a
 
 Particles uses a Niagara Particle that is bound to a spline path by several simulated physics forces. All the forces are adjustable and can affect the form the particle stream takes as each of the 15000 particles make their way around the spline.
 
+![image](https://github.com/user-attachments/assets/58411c72-e25a-4379-b7ce-cb42395c0444)
+
+
 Guests are able to push the particles out of the way using their hands which have point forces that are updated to the hand locations every frame.
 
 **Display**
