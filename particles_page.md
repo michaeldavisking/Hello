@@ -11,7 +11,7 @@ This project was displayed in the 2024 pop-up exhibition at Bird Block Gallery a
 
 **Development**
 
-Particles uses a Niagara Particle that is bound to a spline path by several simulated physics forces. A spline in this case is a 3D closed loop which gives the piece a general shape. All the forces are adjustable and can affect the form the particle stream takes as each of the 15000 particles make their way around the spline. In the image below the force pushing the particles around the spline is on display followed by values controlling the rate at which the forces push and the direction that it pushes particles. In this instance the particles are allowed to be pushed forward or backward along the spline. At the end are magnetic forces that are keeping them within a certain distance from the spline.
+Particles uses a Niagara Particle that is bound to a spline path by several simulated physics forces. A spline in this case is a 3D closed loop which gives the piece a general shape. All the forces are adjustable and can affect the form the particle stream takes as each of the 15000 particles make their way around the spline. In the image below the force pushing the particles around the spline is the first variable followed by values controlling the rate at which the forces push and the direction that it pushes particles. In this instance the particles are allowed to be pushed forward or backward along the spline. At the end are magnetic forces that are keeping them within a certain distance from the spline.
 
 <img src="images/partdoc1.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
 
