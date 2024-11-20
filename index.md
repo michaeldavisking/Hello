@@ -4,7 +4,7 @@
 
 ---
 
-[Particles](sample_page.md)
+[Particles](particles_page.md)
 
 <img src="images/part_running.gif?raw=true"/>
 
