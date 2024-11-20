@@ -10,13 +10,18 @@
 
 ---
 [Transmutation](/pdf/sample_presentation.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Haunted Mansion](http://example.com/)
+[Night In The Mansion](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Dead Horse.PNG](http://example.com/)
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Links
 
