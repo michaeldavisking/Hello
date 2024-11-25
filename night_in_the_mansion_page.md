@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Night In The Mansion was made for a 2024 Halloween Game Jam. In this game you are a ghost attempting to scare a teenager that has broken into your mansion. There are interactable objects in the scene that have sound and animation events which will scare the Non Player Character(NPC) if they are close enough when the event is triggered.
+Night In The Mansion was made for a 2023 Halloween Game Jam. In this game you are a ghost attempting to scare a teenager that has broken into your mansion. There are interactable objects in the scene that have sound and animation events which will scare the Non Player Character(NPC) if they are close enough when the event is triggered.
 
 This game placed 5th out of 23 entries with the highest ratings coming from Aesthetic, Halloween mood, and sound.
 
