@@ -6,7 +6,7 @@ Night In The Mansion was made for a 2023 Halloween Game Jam. In this game you ar
 
 This game placed 5th out of 23 entries with the highest ratings coming from Aesthetic, Halloween mood, and sound.
 
- <img src="images/part1.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
+ <img src="images/nitm_1.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
 
 **Development**
 
@@ -18,7 +18,7 @@ I was in charge of Level Design, Lighting, and Sound. I also worked on some C# c
 
 The level was made using Synthy assets from the Unity Asset Store. Game object segments were assembled to make a small room of the mansion along with an outdoor scene and a secret room.
 
-<img src="images/partdoc1.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
+<img src="images/nitm_2.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
 
 The sounds were sourced from sound libraries and recorded by me. All sound in the game was spacialized so that players would hear different sounds depending on their location in the scene. For example the window of the room had a blend of the indoor rain sound and an outdoor rain sound.
 
