@@ -14,7 +14,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Night In The Mansion](http://example.com/)
+[Night In The Mansion](night_in_the_mansion_page.md)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
