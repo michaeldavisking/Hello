@@ -14,7 +14,10 @@ The development was done by myself and two others who were located in Germany an
 
 I was in charge of Level Design, Lighting, and Sound. I also worked on some C# code to tie the VR player interactions to Unity Animation Controllers on props and the Player. Below is a “Haunted Item” function where the item plays an animation when activated, a separate script is also pictured which shows the call to the teenagers animation controller as well as adding a point to the player’s total if the teenager is not already in the sacred state.
 
-<img src="images/partdoc1.png" alt="A screenshot of Particles in Unreal Engine" width="720" height="500">
+<img src="images/nitmcode1.png" alt="A screenshot of Unity Code for Night In The Mansion" width="720" height="500">
+
+<img src="images/nitmcode2.png" alt="A screenshot of Unity Code for Night In The Mansion" width="720" height="500">
+
 
 The level was made using Synthy assets from the Unity Asset Store. Game object segments were assembled to make a small room of the mansion along with an outdoor scene and a secret room.
 
