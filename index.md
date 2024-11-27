@@ -16,7 +16,7 @@
 ---
 [Night In The Mansion](night_in_the_mansion_page.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/part_running.gif?raw=true"/>
 
 ---
 [Dead Horse.PNG](http://example.com/)
