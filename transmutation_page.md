@@ -1,7 +1,8 @@
 ## Transmutation
 
 **Introduction**
-Transmutation was a 2024 Game Development Class Project. It is a five to seven minute horror experience where the player has been called by a research colleague to recover their documents after an experiment gone wrong.
+
+Transmutation was a 2024 Game Development Class Project. It is a five to seven minute horror experience where the player has been called by a research colleague to recover their documents after an experiment gone wrong. They have to collect keys to unlock doors leading to the documents and are killed by a monster before they have recover anything or escape from the manison.
 
 **Development**
 
