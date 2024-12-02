@@ -22,4 +22,4 @@ I designed several events in the game including a level sequence where a hidden 
 
  **Learned**
 
-This project allowed me to gain further experience in the Unreal Game Engine. I was able to make complex blueprints to control in-game events, design cinematic moments with sound and camera shake, and animation blend with a character sourced from sketchfab.
+This project allowed me to gain further experience in the Unreal Game Engine. I was able to make complex blueprints to control in-game events, design cinematic moments with sound and camera shake, and animation blend with a character sourced from sketchfab. I was able to use this expreince to work more inside of Github to practice version control and game building with a team.
