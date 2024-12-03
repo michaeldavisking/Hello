@@ -2,11 +2,11 @@ title: Michael Davis-King # your name (or website title) here
 logo: <img src="images/portprof.jpgg" alt="Photo Of Me" width="200" height="200">
 description: # your text below (remove <br> elements if you don't need line breaks) 
 
-[Particles](particles_page.md)
+[Particles](particles_page.md):
 
-[Transmutation](transmutation_page.md)
+[Transmutation](transmutation_page.md):
 
-[Night In The Mansion](night_in_the_mansion_page.md)
+[Night In The Mansion](night_in_the_mansion_page.md):
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
