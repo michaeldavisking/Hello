@@ -25,7 +25,7 @@
 
 ### Links
 
-- [itch.io](https://itch.io/profile/bumpobampo){:target="_blank" rel="noopener
+- [itch.io](https://itch.io/profile/bumpobampo){:target="_blank" rel="noopener}
 
 ---
 
